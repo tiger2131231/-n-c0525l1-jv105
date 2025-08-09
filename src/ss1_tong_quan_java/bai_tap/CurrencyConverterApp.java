@@ -2,7 +2,7 @@ package ss1_tong_quan_java.bai_tap;
 
 import java.util.Scanner;
 
-public class currency_converter_app {
+public class CurrencyConverterApp {
     public static void main(String[] args) {
         double vnd = 23000;
         double usd;
