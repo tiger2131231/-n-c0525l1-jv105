@@ -1,4 +1,4 @@
-package ss4_OOP.bai_tap.Xay_dung_lop_Fan;
+package ss4_OOP.bai_tap.Xay_dung_lop_Stop_Watch;
 
 import java.util.Random;
 

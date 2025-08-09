@@ -1,5 +1,4 @@
-package ss4_OOP.bai_tap.Xay_dung_lop_Fan;
-import java.util.Random;
+package ss4_OOP.bai_tap.Xay_dung_lop_Stop_Watch;
 
 public class StopWatch {
     private long startTime;
