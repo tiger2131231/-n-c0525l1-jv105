@@ -1,4 +1,4 @@
-package ss3_Method.bai_tap;
+package ss3_Method.bai_tap.Find_the_largest_element_in_a_two_dimensional_array;
 
 public class FindAvailableMatrix {
     public static void main(String[] args) {
