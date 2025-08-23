@@ -37,5 +37,6 @@ public class Shape {
     }
 
     public void howToColor() {
+        
     }
 }
